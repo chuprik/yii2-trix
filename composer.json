@@ -1,0 +1,29 @@
+{
+  "name": "kotchuprik/yii2-trix",
+  "description": "Basecamp Trix editor for yii2",
+  "type": "yii2-extension",
+  "keywords": [
+    "extension",
+    "editor",
+    "wysiwyg",
+    "trix",
+    "widget",
+    "yii2",
+    "redactor"
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Constantine Chuprik",
+      "email": "constantinchuprik@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "kotchuprik\\trix\\": ""
+    }
+  }
+}
